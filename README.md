@@ -1,3 +1,5 @@
+# PROGRAM IS NO LONGER MAINTAINED
+
 # Text Editor
 
 ### Why does this exist?
